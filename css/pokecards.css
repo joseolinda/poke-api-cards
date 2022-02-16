@@ -1,0 +1,16 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+  
+ .card {
+    flex: 0 1 30%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+    box-sizing: border-box;
+ }
+ .card span {
+     display: block;
+     padding: 8px 20px;
+ }
