@@ -44,6 +44,20 @@ h1 {
     border-radius: 5px;
     margin: 10px;
  }
+ .card.info {
+     display: none;
+ }
+ .card .detalhes {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    background: #666;
+    color: #eee;
+    border-radius: 5px;
+    margin: 10px;
+ }
  .card img {
     display: block;
     box-sizing: border-box;
